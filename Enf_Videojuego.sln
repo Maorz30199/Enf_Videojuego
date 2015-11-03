@@ -1,0 +1,52 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{3C4E1A20-0BA9-E0DB-BC7E-D3C267E63259}") = "Enf_Videojuego", "Assembly-CSharp-firstpass.csproj", "{1CFA5B4D-3869-FD42-9E4F-58BFE925DF96}"
+EndProject
+Project("{3C4E1A20-0BA9-E0DB-BC7E-D3C267E63259}") = "Enf_Videojuego", "Assembly-CSharp.csproj", "{92DB03AF-02CB-FE2C-2F5A-D8DC6124D604}"
+EndProject
+Project("{3C4E1A20-0BA9-E0DB-BC7E-D3C267E63259}") = "Enf_Videojuego", "Assembly-CSharp-Editor.csproj", "{88FA53CE-FC18-7D60-16FC-32D68CB96B95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CFA5B4D-3869-FD42-9E4F-58BFE925DF96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CFA5B4D-3869-FD42-9E4F-58BFE925DF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CFA5B4D-3869-FD42-9E4F-58BFE925DF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CFA5B4D-3869-FD42-9E4F-58BFE925DF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92DB03AF-02CB-FE2C-2F5A-D8DC6124D604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92DB03AF-02CB-FE2C-2F5A-D8DC6124D604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92DB03AF-02CB-FE2C-2F5A-D8DC6124D604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92DB03AF-02CB-FE2C-2F5A-D8DC6124D604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FA53CE-FC18-7D60-16FC-32D68CB96B95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FA53CE-FC18-7D60-16FC-32D68CB96B95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FA53CE-FC18-7D60-16FC-32D68CB96B95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FA53CE-FC18-7D60-16FC-32D68CB96B95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+																												GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.inheritsSet = null
+		$1.scope = text/x-csharp
+		$0.CSharpFormattingPolicy = $2
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.FileWidth = 120
+		$3.TabWidth = 4
+		$3.IndentWidth = 4
+		$3.EolMarker = Unix
+		$3.inheritsSet = Mono
+		$3.inheritsScope = text/plain
+		$3.scope = text/plain
+	EndGlobalSection
+
+EndGlobal
